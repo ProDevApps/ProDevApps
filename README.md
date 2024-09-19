@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Manzoor Akram</h1>
-<h3 align="center">I am a passionate Android Developer with over two year of working experience. I am always eager to learn new technologies and explore innovative solutions to challenges.</h3>
+<h3 align="center">I am a passionate Android Developer with over almost 3 years of working experience. I am always eager to learn new technologies and explore innovative solutions to challenges.</h3>
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/muhammad-manzoor-41400225b](www.linkedin.com/in/muhammad-manzoor-41400225b)
 
